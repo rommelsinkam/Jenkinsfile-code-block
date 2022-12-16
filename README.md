@@ -7,8 +7,9 @@ ipeline {
                 sh '''
                 ls 
                 pwd
-                '''
+               '''
             }
         }
     }
 }
+https://github.com/rommelsinkam/Jenkinsfile-code-block/settings
